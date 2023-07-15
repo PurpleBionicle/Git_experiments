@@ -1,1 +1,0 @@
-echo my password is ***REMOVED***5
