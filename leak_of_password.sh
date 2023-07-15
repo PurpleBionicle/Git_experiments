@@ -1,0 +1,1 @@
+echo my password is 12345
